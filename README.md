@@ -1,9 +1,10 @@
 # MVCArrayRepository
 
-## Objetivos do Projeto
+Integrantes:
+Geovana Cristina
 
-Aprender a usar:
-- Array
-- Typescript com POO
-- Padrão repository
+# Como Rodar o sistema:
 
+- npx tsc = compila o código e gera um arquivo JS na pasta dist
+
+- node dist/index.js = executa o arquivo gerado
